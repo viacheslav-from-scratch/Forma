@@ -1,3 +1,7 @@
+## Disclaimer - it is AI GENERATED for my help
+## Disclaimer - it is AI GENERATED for my help
+## Disclaimer - it is AI GENERATED for my help
+
 # Forma 1.1
 
 Полный локальный проект: React-интерфейс, Express-сервер, история SQLite, подключение Ollama и Computer с отдельным Chromium. В архив входят исходники и готовая сборка `dist`; одного `dist/public` для работы недостаточно.
